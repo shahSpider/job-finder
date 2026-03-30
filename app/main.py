@@ -10,9 +10,6 @@ from app.api.users import router as users_router
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     # Startup logic
-    async with engine.begin() as conn:
-        await conn.run_sync(Base.metadata.create_all)
-
     yield
 
     # Shutdown logic (optional)

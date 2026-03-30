@@ -1,12 +1,12 @@
 # schemas/user.py
 import uuid
-from pydantic import BaseModel, EmailStr, ConfigDict
+from pydantic import BaseModel, EmailStr, ConfigDict, constr
 from datetime import datetime
 
 class UserCreate(BaseModel):
     email: EmailStr
     username: str
-    password: str
+    password: constr(min_length=8, max_length=72)  # max 72
     full_name: str | None = None
     years_experience: int | None = None
     location: str | None = None

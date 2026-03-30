@@ -26,7 +26,7 @@ async def get_user_by_id(db: AsyncSession, user_id: uuid.UUID):
 
 
 async def create_user(db: AsyncSession, user_in: UserCreate):
-    print(f"Creating user with email: {user_in.email}, username: {user_in.username}")
+    print(f"Creating user with email: {user_in.email}, username: {user_in.username}, password: {user_in.password}")
     hashed_password = hash_password(user_in.password)
 
     user = User(
