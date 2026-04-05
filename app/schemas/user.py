@@ -31,3 +31,13 @@ class UserRead(BaseModel):
 class Token(BaseModel):
     access_token: str
     token_type: str = "bearer"
+
+class PasswordChange(BaseModel):
+    current_password: str = Field(..., min_length=8)
+    new_password: str = Field(..., min_length=8)
+    confirm_password: str = Field(..., min_length=8)
+
+# Password reset (without current password - for forgot password flow)
+class PasswordReset(BaseModel):
+    new_password: str = Field(..., min_length=8)
+    confirm_password: str = Field(..., min_length=8)

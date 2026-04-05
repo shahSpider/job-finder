@@ -54,3 +54,41 @@ async def authenticate_user(db: AsyncSession, email: str, password: str) -> User
     if not verify_password(password, user.password_hash):
         return None
     return user
+ 
+async def update_user_password(
+    db: AsyncSession,
+    user_id: int,
+    current_password: str,
+    new_password: str
+) -> bool:
+    """
+    Update user password after verifying current password
+    
+    Returns:
+        bool: True if password updated successfully
+    
+    Raises:
+        ValueError: If current password is incorrect
+    """
+    # Get user from database
+    result = await db.execute(
+        select(User).where(User.id == user_id)
+    )
+    user = result.scalar_one_or_none()
+    
+    if not user:
+        raise ValueError("User not found")
+    
+    # Verify current password
+    if not verify_password(current_password, user.hashed_password):
+        raise ValueError("Current password is incorrect")
+    
+    # Hash and update new password
+    user.hashed_password = hash_password(new_password)
+    
+    # Commit changes
+    await db.commit()
+    await db.refresh(user)
+    
+    return True
+ 

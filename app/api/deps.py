@@ -9,7 +9,7 @@ from app.core.config import settings
 from app.db.session import get_db
 from app.services.user_service import get_user_by_id
 
-oauth2_scheme = OAuth2PasswordBearer(tokenUrl="users/login")
+oauth2_scheme = OAuth2PasswordBearer(tokenUrl="users/login", auto_error=False)
 
 
 async def get_current_user(
@@ -24,15 +24,19 @@ async def get_current_user(
 
     try:
         payload = jwt.decode(token, settings.SECRET_KEY, algorithms=[settings.ALGORITHM])
+        print(payload)
         sub = payload.get("sub")
         if not sub:
             raise credentials_exception
         user_id = uuid.UUID(sub)
     except (JWTError, ValueError):
+        print(f"JWT Error")
         raise credentials_exception
 
     user = await get_user_by_id(db, user_id=user_id)
+    print(f"USER : {user}")
     if not user:
+        print(f"NO USER.....")
         raise credentials_exception
     if not getattr(user, "is_active", True):
         raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Inactive user")
