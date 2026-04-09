@@ -26,8 +26,7 @@ async def get_user_by_id(db: AsyncSession, user_id: uuid.UUID):
 
 
 async def create_user(db: AsyncSession, user_in: UserCreate):
-    print(f"Creating user with email: {user_in.email}, username: {user_in.username}, password: {user_in.password}")
-    hashed_password = hash_password(user_in.password)
+    password_hash = hash_password(user_in.password)
 
     user = User(
         email=user_in.email,
@@ -37,7 +36,7 @@ async def create_user(db: AsyncSession, user_in: UserCreate):
         location=user_in.location,
         salary_min=user_in.salary_min,
         salary_max=user_in.salary_max,
-        password_hash=hashed_password
+        password_hash=password_hash
     )
 
     db.add(user)
@@ -80,11 +79,11 @@ async def update_user_password(
         raise ValueError("User not found")
     
     # Verify current password
-    if not verify_password(current_password, user.hashed_password):
+    if not verify_password(current_password, user.password_hash):
         raise ValueError("Current password is incorrect")
     
     # Hash and update new password
-    user.hashed_password = hash_password(new_password)
+    user.password_hash = hash_password(new_password)
     
     # Commit changes
     await db.commit()
