@@ -1,3 +1,23 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+
+.venv/
 .env
-.vscode
-.venv
+
+# Alembic cache
+
+alembic/versions/**pycache**/
+
+# OS files
+
+.DS_Store
+
+# Logs
+
+*.log
