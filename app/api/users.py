@@ -46,7 +46,6 @@ async def login(form_data: OAuth2PasswordRequestForm = Depends(), db: AsyncSessi
 
 @router.get("/me", response_model=UserRead)
 async def read_me(current_user=Depends(get_current_user)):
-    print(f"\n\n\nCurrent user: {current_user.email}, username: {current_user.username}")
     return current_user
 
 

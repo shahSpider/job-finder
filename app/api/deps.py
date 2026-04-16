@@ -34,7 +34,6 @@ async def get_current_user(
         raise credentials_exception
 
     user = await get_user_by_id(db, user_id=user_id)
-    print(f"USER : {user}")
     if not user:
         print(f"NO USER.....")
         raise credentials_exception

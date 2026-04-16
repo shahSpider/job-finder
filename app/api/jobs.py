@@ -1,17 +1,34 @@
-from app.main import app
+from fastapi import APIRouter, Depends, status, HTTPException
+from sqlalchemy.ext.asyncio import AsyncSession
+from app.api.deps import get_current_user
+from app.db.session import get_db
+from app.schemas.job import JobCreate, JobUpdate, JobResponse
+from app.services.job_service import create_job_service, get_jobs_service, get_job_by_id_service, delete_job_service, update_job_service
 
-@app.get("/jobs")
-def get_jobs():
-    return {"jobs": ["job1", "job2", "job3"]}
+router = APIRouter(prefix="/jobs", tags=["jobs"])
 
-@app.post("/jobs")
-def create_job(job: str):
-    return {"message": f"Job '{job}' created successfully"}
+@router.post("/", status_code=status.HTTP_201_CREATED)
+async def create_job(job: JobCreate, db: AsyncSession = Depends(get_db)):
+    return await create_job_service(db=db, job_data=job)
 
-@app.delete("/jobs/{job_id}")
-def delete_job(job_id: int):
-    return {"message": f"Job with ID {job_id} deleted successfully"}
+@router.get("/")
+async def get_jobs(db: AsyncSession = Depends(get_db)):
+    return await get_jobs_service(db=db)
 
-@app.put("/jobs/{job_id}")
-def update_job(job_id: int, job: str):
-    return {"message": f"Job with ID {job_id} updated to '{job}' successfully"}
+@router.get("/{job_id}", status_code=status.HTTP_200_OK)
+async def get_job_by_id(job_id: str, db: AsyncSession = Depends(get_db)):
+    if not await get_job_by_id_service(db=db, job_id=job_id):
+        raise HTTPException(status_code=404, detail="Job not found")
+    return await get_job_by_id_service(db=db, job_id=job_id)
+
+@router.delete("/{job_id}", status_code=status.HTTP_200_OK)
+async def delete_job(job_id: str, db: AsyncSession = Depends(get_db)):
+    if not await delete_job_service(db=db, job_id=job_id):
+        raise HTTPException(status_code=404, detail="Job not found")
+    return await delete_job_service(db=db, job_id=job_id)
+
+@router.put("/{job_id}", status_code=status.HTTP_200_OK)
+async def update_job(job_id: str, job: JobUpdate, db: AsyncSession = Depends(get_db)):
+    if not await update_job_service(db=db, job_id=job_id, job_data=job):
+        raise HTTPException(status_code=404, detail="Job not found")
+    return await update_job_service(db=db, job_id=job_id, job_data=job)
