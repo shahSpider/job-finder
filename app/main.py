@@ -7,6 +7,8 @@ from app.models.job import Job
 from app.models.source import JobSource
 from app.api.users import router as users_router
 from app.api.jobs import router as jobs_router
+from app.api.sources import router as sources_router
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -20,6 +22,7 @@ async def lifespan(app: FastAPI):
 app = FastAPI(lifespan=lifespan)
 app.include_router(users_router)
 app.include_router(jobs_router)
+app.include_router(sources_router)
 
 
 @app.get("/")

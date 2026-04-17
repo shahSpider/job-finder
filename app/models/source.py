@@ -1,11 +1,12 @@
 import uuid
-from sqlalchemy import String
+from sqlalchemy import Boolean, String
 from sqlalchemy.dialects.postgresql import UUID
 from sqlalchemy.orm import Mapped, mapped_column
 
 from app.db.base import Base
+from app.db.mixins import TimestampMixin
 
-class JobSource(Base):
+class JobSource(Base, TimestampMixin):
     __tablename__ = "job_sources"
 
     id: Mapped[uuid.UUID] = mapped_column(
@@ -21,3 +22,4 @@ class JobSource(Base):
     )
 
     base_url: Mapped[str] = mapped_column(String(255))
+    is_active: Mapped[bool] = mapped_column(Boolean, default=True)

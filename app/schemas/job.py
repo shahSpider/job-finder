@@ -10,6 +10,7 @@ class JobCreate(BaseModel):
     location: str
     salary: Optional[int] = None
     url: str
+    source_id: Optional[uuid.UUID] = None
 
 class JobUpdate(BaseModel):
     title: Optional[str] = None
@@ -28,5 +29,4 @@ class JobResponse(BaseModel):
     salary: Optional[int]
     url: str
 
-    class Config:
-        from_attributes = True
+    model_config = ConfigDict(from_attributes=True)

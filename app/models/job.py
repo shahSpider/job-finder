@@ -20,11 +20,11 @@ class Job(Base, TimestampMixin):
     )
 
     # external_id: Mapped[str | None] = mapped_column(String(255), nullable=True)
-    # source_id: Mapped[uuid.UUID | None] = mapped_column(
-    #     UUID(as_uuid=True),
-    #     ForeignKey("job_sources.id"),
-    #     nullable=True
-    # )
+    source_id: Mapped[uuid.UUID | None] = mapped_column(
+        UUID(as_uuid=True),
+        ForeignKey("job_sources.id"),
+        nullable=True
+    )
 
     title: Mapped[str] = mapped_column(String(255))
     company: Mapped[str] = mapped_column(String(255))
