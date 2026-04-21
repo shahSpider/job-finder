@@ -1,9 +1,12 @@
-from fastapi import APIRouter, Depends, status, HTTPException
+from fastapi import APIRouter, Depends, status, HTTPException, BackgroundTasks
 from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy import select
 from app.api.deps import get_current_user
 from app.db.session import get_db
 from app.schemas.source import JobSourceCreate, JobSourceResponse, JobSourceUpdate
 from app.services.source_service import create_source, get_sources, update_source, delete_source
+from app.pipelines.job_pipeline import run_job_pipeline
+from app.models.source import JobSource
 
 
 router = APIRouter(prefix="/sources", tags=["sources"])
@@ -29,3 +32,21 @@ async def delete_job_source(source_id: str, db: AsyncSession = Depends(get_db)):
     if not await delete_source(db=db, source_id=source_id):
         raise HTTPException(status_code=404, detail="Source not found")
     return await delete_source(db=db, source_id=source_id)
+
+
+
+@router.post("/{source_id}/fetch")
+async def fetch_jobs(
+    source_id: str,
+    background_tasks: BackgroundTasks,
+    db: AsyncSession = Depends(get_db)
+):
+    result = await db.execute(select(JobSource).where(JobSource.id == source_id))
+    source = result.scalar_one_or_none()
+
+    if not source:
+        return {"error": "Source not found"}
+
+    background_tasks.add_task(run_job_pipeline, db, source)
+
+    return {"message": "Fetching started"}

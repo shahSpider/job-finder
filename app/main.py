@@ -8,13 +8,16 @@ from app.models.source import JobSource
 from app.api.users import router as users_router
 from app.api.jobs import router as jobs_router
 from app.api.sources import router as sources_router
-
+from app.workers.scheduler import start_scheduler
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
+    scheduler = start_scheduler()
+
     # Startup logic
     yield
 
+    scheduler.shutdown()
     # Shutdown logic (optional)
     await engine.dispose()
 
