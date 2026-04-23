@@ -1,0 +1,1882 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-5a3de83fe42e4794","indeed","https://www.indeed.com/viewjob?jk=5a3de83fe42e4794","https://jobs.ashbyhq.com/handshake/2cfafa1a-d47d-4bc2-9c41-4c50bcba0245?utm_source=WwjMVx9ppK","Software Engineer I, RLE","Handshake","San Francisco, CA, US","2026-04-23","fulltime","direct_data","yearly",157500.0,175000.0,"USD",False,"","","","","**About Handshake**
+
+
+Handshake is the career network for the AI economy. 20 million knowledge workers, 1,600 educational institutions, 1 million employers (including 100% of the Fortune 50\\), and every foundational AI lab trust Handshake to power career discovery, hiring, and upskilling, from freelance AI training gigs to first internships to full\\-time careers and beyond. This unique value is leading to unparalleled growth; in 2025, we tripled our ARR at scale.
+
+
+Why join Handshake now:
+
+* Shape how every career evolves in the AI economy, at global scale, with impact your friends, family and peers can see and feel
+* Work hand\\-in\\-hand with world\\-class AI labs, Fortune 500 partners and the world’s top educational institutions
+* Join a team with leadership from Scale AI, Meta, xAI, Notion, Coinbase, and Palantir, among others
+* Build a massive, fast\\-growing business with billions in revenue
+
+**About the Role**
+------------------
+
+
+We’re hiring a **Software Engineer** to build our Reinforcement Learning Environments (RLE) platform—the interactive systems where frontier AI models learn to complete real\\-world work.
+
+
+This role owns meaningful components end\\-to\\-end and plays a key part in scaling systems that power model training and evaluation.
+
+**Location:** San Francisco, CA (in\\-office, 5 days/week)
+
+**What You’ll Do**
+------------------
+
+* Build and scale core components of RLE environments and infrastructure
+* Design and implement backend systems and data pipelines
+* Translate ambiguous product and research needs into production systems
+* Develop modular, reusable workflow domains
+* Improve reliability, observability, and system performance
+
+**What We’re Looking For**
+--------------------------
+
+* 2–4 years of experience in backend, distributed systems, or ML\\-adjacent infrastructure
+* Strong proficiency in ReactJS and TypeScript
+* Solid experience with relational databases (PostgreSQL) and data modeling
+* Experience with cloud infrastructure (AWS/GCP) and CI/CD
+* Ability to independently drive projects from design to production
+
+**Nice to Have**
+----------------
+
+* Experience with simulation systems or evaluation platforms
+* Exposure to ML systems or working with research teams
+* Experience in fast\\-moving, operations\\-heavy environments
+
+**What Success Looks Like**
+---------------------------
+
+* Owns and delivers key RLE components end\\-to\\-end
+* Improves system scalability and developer velocity
+* Enables faster launch of new domains with high\\-quality data
+
+**Perks**
+---------
+
+
+Handshake delivers benefits that help you feel supported—and thrive at work and in life.
+
+
+The below benefits are for full\\-time US employees.
+
+
+Ownership: Equity in a fast\\-growing company
+
+
+Financial Wellness: 401(k) match, competitive compensation, financial coaching
+
+
+Family Support: Paid parental leave, fertility benefits, parental coaching
+
+
+Wellbeing: Medical, dental, and vision, mental health support, $500 wellness stipend
+
+
+Growth: $2,000 learning stipend, ongoing development
+
+
+Office: Commuting support, free lunch, and gym in our SF office
+
+
+Time Off: Flexible PTO, 15 holidays \\+ 2 flex days
+
+
+Connection: Team outings \\& referral bonuses
+
+
+Compensation Range: $157\\.5K \\- $175K","","https://www.indeed.com/cmp/Handshake-7","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7eab87dedf45bef4db78d175bb058dd4","","","Decline to state","Decline to state","Our mission at Handshake is to give all students the chance to build the career they want, no matter where they’re from or what school they attend. ","","","","","",""
+"in-99a58fddf03b943b","indeed","https://www.indeed.com/viewjob?jk=99a58fddf03b943b","https://jobs.ashbyhq.com/handshake/488eea9a-a2b5-4081-ba4d-ef1c04a80603?utm_source=WwjMVx9ppK","Staff Software Engineer, RLE","Handshake","San Francisco, CA, US","2026-04-23","fulltime","direct_data","yearly",265500.0,295000.0,"USD",False,"","","","","**About Handshake**
+
+
+Handshake is the career network for the AI economy. 20 million knowledge workers, 1,600 educational institutions, 1 million employers (including 100% of the Fortune 50\\), and every foundational AI lab trust Handshake to power career discovery, hiring, and upskilling, from freelance AI training gigs to first internships to full\\-time careers and beyond. This unique value is leading to unparalleled growth; in 2025, we tripled our ARR at scale.
+
+
+Why join Handshake now:
+
+* Shape how every career evolves in the AI economy, at global scale, with impact your friends, family and peers can see and feel
+* Work hand\\-in\\-hand with world\\-class AI labs, Fortune 500 partners and the world’s top educational institutions
+* Join a team with leadership from Scale AI, Meta, xAI, Notion, Coinbase, and Palantir, among others
+* Build a massive, fast\\-growing business with billions in revenue
+
+**About the Role**
+------------------
+
+
+We’re hiring a **Staff Software Engineer** to lead the architecture and evolution of our Reinforcement Learning Environments (RLE) platform—the systems that define how frontier AI models learn real\\-world work.
+
+
+This is a high\\-impact, technical leadership role responsible for system design, cross\\-team alignment, and setting the long\\-term technical direction of RLE.
+
+**Location:** San Francisco, CA (in\\-office, 5 days/week)
+
+**What You’ll Do**
+------------------
+
+* Define and drive architecture for scalable, extensible RLE systems and data pipelines
+* Lead development of platform capabilities enabling rapid domain creation
+* Partner with Research, Product, and Ops to shape strategy and execution
+* Set standards for reliability, observability, performance, and data quality
+* Mentor engineers and elevate engineering excellence across the team
+* Identify and solve systemic bottlenecks in scaling environments and data generation
+
+**What We’re Looking For**
+--------------------------
+
+* 8\\+ years of experience in distributed systems, backend infrastructure, or ML platforms
+* Deep expertise in system design, data modeling, and scalable architectures
+* Strong proficiency with TypeScript, backend systems, and modern web stacks
+* Proven experience operating high\\-scale production systems in cloud environments
+* Track record of technical leadership and cross\\-functional influence
+
+**Nice to Have**
+----------------
+
+* Experience with RL infrastructure, simulation systems, or evaluation frameworks
+* Background supporting applied AI/ML research teams
+* Experience building platform\\-level abstractions used across multiple teams
+
+**What Success Looks Like**
+---------------------------
+
+* RLE becomes a foundational, trusted platform across teams and use cases
+* New domains scale rapidly with minimal engineering overhead
+* Systems demonstrate step\\-function improvements in model quality and reliability
+* Engineering velocity and system robustness increase across the organization
+
+**Perks**
+---------
+
+
+Handshake delivers benefits that help you feel supported—and thrive at work and in life.
+
+
+The below benefits are for full\\-time US employees.
+
+
+Ownership: Equity in a fast\\-growing company
+
+
+Financial Wellness: 401(k) match, competitive compensation, financial coaching
+
+
+Family Support: Paid parental leave, fertility benefits, parental coaching
+
+
+Wellbeing: Medical, dental, and vision, mental health support, $500 wellness stipend
+
+
+Growth: $2,000 learning stipend, ongoing development
+
+
+Office: Commuting support, free lunch, and gym in our SF office
+
+
+Time Off: Flexible PTO, 15 holidays \\+ 2 flex days
+
+
+Connection: Team outings \\& referral bonuses
+
+
+Compensation Range: $265\\.5K \\- $295K","","https://www.indeed.com/cmp/Handshake-7","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7eab87dedf45bef4db78d175bb058dd4","","","Decline to state","Decline to state","Our mission at Handshake is to give all students the chance to build the career they want, no matter where they’re from or what school they attend. ","","","","","",""
+"in-9753947e908b0612","indeed","https://www.indeed.com/viewjob?jk=9753947e908b0612","https://jobs.ashbyhq.com/cambio/aae8feca-3db1-457d-bc45-0724b619a081?utm_source=8py2KmZm17","Senior Software Engineer, AI Products","Cambio AI Inc.","San Francisco, CA, US","2026-04-23","fulltime","","","","","",False,"","","","","**About Cambio**
+
+
+Cambio is a software platform for world\\-class real estate decarbonization. We help commercial real estate owners and tenants bring their real estate portfolios to net\\-zero using a machine learning\\-driven, end\\-to\\-end real estate sustainability platform. Our mission is to take the real estate industry into the climate action era.
+
+
+We are proud to be the fastest growing startup in our category, with world\\-class partners and investors including Y Combinator, Google, the U.S. Department of Energy, Stanford University and Fifth Wall. We are seeking team members who are passionate about building transformative products, enthusiastic about problem\\-solving, and excited to work at the forefront of climate and real estate technology. Join us on our mission to achieve net zero by 2050\\.
+
+**Things Our Engineers Love:**
+
+* Mission\\-driven: Climate can’t wait. We’re building real solutions for one of the most carbon\\-intensive industries — real estate.
+* Hypergrowth: We've tripled our ARR last year and we’re on track to do it again.
+* AI\\-forward: We're tripling our investment in AI to supercharge our platform and help customers decarbonize faster.
+* World\\-class team: Ex\\-Google, Bain, Faire, One Medical, OMERS, Goldman Sachs, and more.
+* High ownership: Join early, ship fast, and help shape the product, team, and culture from the ground up.
+* Competitive compensation \\+ meaningful early\\-stage equity
+
+**The role**
+
+
+As an AI Engineer, you will play a pivotal role in integrating large language models (LLMs) and machine learning (ML) solutions into our platform and internal systems. Your work will directly impact customer experiences, operational efficiency, and product innovation.
+
+**What You Will Be Doing:**
+
+* Build \\& Ship AI Based Features – Design, implement, and optimize AI\\-driven features for the platform, enhancing customer experience and business impact.
+* AI\\-Powered Automation \\& Tooling – Develop LLM\\-based internal automation tools to streamline workflows, reduce manual effort, and improve team productivity.
+* Scalable AI Infrastructure – Build and maintain a ML/LLM pipeline, ensuring robust, efficient, and scalable deployments.
+* Performance \\& Cost Optimization – Improve AI model performance, balancing speed, quality, and infrastructure costs.
+* Cross\\-Functional Collaboration – Work with product, engineering, and data teams to define AI/LLM use cases and share best practices.
+
+**What We’re Looking For:**
+
+* 5\\+ years of experience in software engineering, including system design, distributed systems, API development, and CI/CD.
+* 1\\+ years of experience developing AI\\-powered products
+* Strong proficiency in Python with hands\\-on expertise in LLMs.
+* Problem\\-Solving Mindset: Ability to tackle ambiguous AI challenges and develop scalable, efficient AI solutions.
+* Collaboration \\& Communication: Comfortable working with engineers, data scientists, and product teams to define and implement AI\\-driven features.
+* (Bonus) Experience with building and deploying AI agents, AI frameworks such as LangChain, RAG (Retrieval\\-Augmented Generation) pipelines and vector databases.
+
+**Our Tech Stack:**
+
+* **Infra:** AWS, Fargate, Redis, PostgreSQL, SQS, CDK, Github, retool
+* **Backend**: Django REST framework, Celery
+* **Frontend**: Next.js, Tailwind css
+* **LLM**: AWS Bedrock, OpenAI, Claude
+
+**Logistics:**
+
+* **Work Authorization:** Authorization to work in the United States or Canada is required.
+* **Location:** This is a hybrid role requiring 2 days of in\\-person collaboration per week from our San Francisco or Waterloo\\-Kitchener Offices
+
+
+If you thrive on creating well\\-crafted products and systems that have a disproportionate impact on the real estate industry’s path to net zero, we invite you to join our team. Apply now to embark on this journey with us.","","https://www.indeed.com/cmp/Cambio-Ai-Inc.","","","","","","","","","","","",""
+"in-d0db937d0a9bb8d5","indeed","https://www.indeed.com/viewjob?jk=d0db937d0a9bb8d5","https://grnh.se/is1g131l2us","Machine Learning Engineer, Lyft Business","Lyft","San Francisco, CA, US","2026-04-23","","direct_data","yearly",176000.0,211200.0,"USD",False,"","","","","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+
+
+
+Machine Learning is at the heart of Lyft's products and decision\\-making. Machine Learning Engineers at Lyft operate in dynamic environments, moving quickly to build the world's best transportation solutions. We tackle a wide range of challenges, from pricing and marketplace frameworks that ensure reliability and competitiveness, to agentic AI platforms that automate analytical workflows, to behavioral detection systems that protect the integrity of our network. We operate at the intersection of applied ML and real business impact, shipping models that directly influence revenue, rider experience, and partner trust.
+
+
+
+Lyft Business builds products that help organizations move the people who matter most—employees, customers, patients, and guests—easily and efficiently. Our offerings include Business Travel, Lyft Pass, and Concierge (for healthcare and non\\-healthcare rides), enabling companies to manage transportation at scale through APIs, integrations (e.g., Concur, Expensify), and dedicated tools. These platforms power high\\-impact B2B use cases across corporate travel, healthcare access, customer experience, and community programs.
+
+
+
+We're looking for a Machine Learning Engineer to design, build, and deploy ML systems across Lyft Business. This is a high\\-scope role: you won't be siloed into one problem area. Instead, you'll move across pricing algorithms, fraud and behavior detection, agentic AI systems, and emerging ML applications as the business evolves. You'll write production\\-quality code, own models end\\-to\\-end from prototyping through deployment, and collaborate closely with Data Scientists, Product Managers, and Software Engineers to translate complex business problems into scalable ML solutions.
+
+
+
+This role is ideal for someone who is technically versatile, energized by variety, and wants to see their work directly shape a large\\-scale business.
+
+
+### **Responsibilities:**
+
+
+* Develop and deploy ML models across multiple problem domains — including dynamic pricing, marketplace optimization, fraud detection, and anomaly/behavior detection — in production environments serving millions of rides
+* Build and iterate on agentic AI systems (e.g., LLM\\-powered analytical agents) that automate decision\\-making and reduce operational overhead
+* Design and implement feature pipelines, model training workflows, and serving infrastructure using Lyft's ML platform
+* Partner with Data Scientists on the Algorithms and Decisions teams to take research prototypes from proof\\-of\\-concept to production at scale
+* Evaluate ML system performance against business KPIs, run experiments, and drive continuous model improvement
+* Identify new opportunities where ML can create leverage across Lyft Business verticals (Healthcare, Lyft Pass, Business Travel) and pitch solutions
+* Contribute to team engineering standards — code quality, observability, documentation, and testing practices
+
+### **Experience:**
+
+
+* Experience with GenAI / LLM ecosystems — prompt engineering, RAG, agent frameworks (e.g., LangChain, LangGraph), or fine\\-tuning
+* Exposure to graph\\-based ML methods (graph neural networks, knowledge graphs, network analysis)
+* Experience with pricing, marketplace, or fraud\\-related ML problems
+* Familiarity with cloud ML services (AWS SageMaker, Bedrock) or internal ML platforms
+* Track record of identifying and scoping ML projects independently, not just executing on pre\\-defined specs
+
+### **Benefits:**
+
+
+* Great medical, dental, and vision insurance options with additional programs available when enrolled
+* Mental health benefits
+* Family building benefits
+* Child care and pet benefits
+* 401(k) plan with company match to help save for your future
+* In addition to 12 observed holidays, salaried team members have discretionary paid time off, hourly team members have 15 days paid time off
+* 18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+* Subsidized commuter benefits
+* Monthly Lyft credits and complimentary Lyft Pink membership
+
+
+*Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.*
+
+
+*Lyft highly values having employees working in\\-office to foster a collaborative work environment and company culture. This role will be in\\-office on a hybrid schedule — Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in\\-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. \\#Hybrid*
+
+
+*The expected base pay range for this position in the San Francisco area is $176,000\\-$211,200, not inclusive of potential equity offering, bonus or benefits. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.*","","https://www.indeed.com/cmp/Lyft-b696b6c5","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/07988546b3b5968ecd9e8e76ee0cf0b7","","","","","Multiply your earnings when you drive with Lyft. You drive your own car, set your own schedule, and get paid weekly.","","","","","",""
+"in-4b1e57408cdfdfd1","indeed","https://www.indeed.com/viewjob?jk=4b1e57408cdfdfd1","https://grnh.se/rif2po9g1us","Senior Software Engineer - Robinhood Command Center","Robinhood","Menlo Park, CA, US","2026-04-23","","direct_data","yearly",196000.0,230000.0,"USD",False,"","","","","**Join us in building the future of finance.**
+----------------------------------------------
+
+
+
+Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you're ready to be at the epicenter of this historic cultural and financial shift, keep reading.
+
+**About the team \\& role**
+--------------------------
+
+
+
+We are building an elite team, applying frontier technologies to the world's biggest financial problems. We're looking for bold thinkers. Sharp problem\\-solvers. Builders who are wired to make an impact. Robinhood isn't a place for complacency, it's where ambitious people do the best work of their careers. We're a high\\-performing, fast\\-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards.
+
+
+
+The Robinhood Command Center (RCC) is a newly formed reliability team that serves as the front line for detecting, coordinating, and mitigating production incidents across Robinhood.
+
+
+
+As part of Robinhood's broader reliability initiative, RCC works closely with product engineering, reliability, observability, infrastructure, and business teams to reduce customer impact and shorten incident duration.
+
+
+
+As a Senior Engineer, you will be part of the founding RCC team, helping define how Robinhood responds to and learns from incidents at scale. This is a highly visible role focused on incident leadership, operational excellence, and reliability tooling. You will not own product services or core infrastructure, but you will own the processes and tools that enable fast, high\\-quality incident response.
+
+
+
+This role is based in our Menlo Park, Califronia office, with in\\-person attendance expected at least 3 days per week.
+
+
+**What you'll do:**
+-------------------
+
+
+* Serve as a senior technical leader driving the long\\-term reliability and observability strategy across Robinhood's infrastructure
+* Partner closely across many different types of engineers to raise the bar for operational excellence and incident response
+* Lead incident mitigation efforts by coordinating service owners, facilitating time\\-sensitive decisions like rollbacks, traffic shifts, and maintaining a clear source of truth during active incidents
+* Develop and maintain incident management processes and procedures to ensure timely resolution and minimize customer impact
+* Own incident discovery at the company level by defining and maintaining global dashboards and alerts tied to critical user journeys (CUJs), availability, and business\\-impact metrics
+* Own and evolve incident response tooling and processes, including education, adoption, and measurement of MTTD/MTTR improvements
+* Drive post\\-incident governance and learning, defining standards for postmortems, SEV reviews, and follow\\-up tracking to ensure durable reliability improvements
+* Design and implement next\\-generation failure mitigation strategies that avoid full\\-region or full\\-datacenter failovers
+* Define and build frameworks to improve monitoring, alerting, and observability across hundreds of services and systems
+* Define and own the roadmap of bringing observability to critical user journeys for Robinhood's products
+* Deliver key insights and executive\\-level reporting to enable better business decisions around service quality and reliability
+* Act as a force multiplier through mentoring, technical influence, and contributions to hiring and engineering culture
+
+### **What you bring:**
+
+
+* 5\\+ years of software engineering experience, including significant experience operating production systems
+* 2\\+ years focused on reliability engineering, infrastructure, distributed systems, or production operations
+* Hands\\-on experience serving in incident leadership roles (e.g., IMOC, incident commander, primary oncall)
+* Strong communication and cross\\-functional collaboration skills, especially during high\\-severity incidents
+* Deep knowledge of systems reliability, observability frameworks, and fault\\-tolerant architecture design
+* Experience with multi\\-region or multi\\-cluster architectures, capacity planning, and failover strategies
+* Familiarity with modern observability stacks (e.g., OpenTelemetry, Prometheus, Grafana)
+* Demonstrated ability to drive measurable improvements in MTTD, MTTR, availability, or customer impact
+  
+
+
+**What we offer:**
+
+
+* Challenging, high\\-impact work to grow your career
+* Performance driven compensation with multipliers for outsized impact, bonus programs, equity ownership, and 401(k) matching
+* Best in class benefits to fuel your work, including 100% paid health insurance for employees with 90% coverage for dependents
+* Lifestyle wallet \\- a highly flexible benefits spending account for wellness, learning, and more
+* Employer\\-paid life \\& disability insurance, fertility benefits, and mental health benefits
+* Time off to recharge including company holidays, paid time off, sick time, parental leave, and more!
+* Exceptional office experience with catered meals, events, and comfortable workspaces
+
+
+Click here to learn more about our Total Rewards, which vary by region and entity.
+
+
+
+If our mission energizes you and you're ready to build the future of finance, we look forward to seeing your application.
+
+
+
+Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application.","","https://www.indeed.com/cmp/Robinhood","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fcc6ea68293ecd7524e61e9725b0bb2","http://www.robinhood.com","Menlo Park, CA","1,001 to 5,000","Decline to state","Robinhood is on a mission to democratize finance for all. ","","","","","",""
+"in-5dc37322aaf66574","indeed","https://www.indeed.com/viewjob?jk=5dc37322aaf66574","https://www.okta.com/company/careers/engineering/platform-staff-engineer-universal-directory-7843765/","Platform Staff Engineer- Universal Directory","Okta","San Francisco, CA, US","2026-04-23","","direct_data","yearly",194000.0,243000.0,"USD",False,"","","","","**Secure Every Identity, from AI to Human**  
+
+  
+
+Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real\\-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.  
+
+  
+
+This is an opportunity to do career\\-defining work. We're all in on this mission. If you are too, let's talk.
+
+
+We are seeking an experienced Staff Software Engineer to join Okta's Universal Directory Platform team within the Product Platform Pillar. The team serves as the intelligent core of the enterprise security fabric, maintaining the source of truth for all identity assets and their associated relationships.
+
+
+
+\\*\\*This role follows a hybrid model requiring two days per week in our San Francisco office.\\*\\*
+
+
+**Opportunity**
+
+
+
+This position will be involved into development, design, and maintenance of our highly performant, reliable, and scalable platform, which is critical for managing user lifecycles, groups, and memberships. The successful candidate will possess experience in building and deploying scalable, reliable software and infrastructure within a cloud environment.
+
+  
+
+
+**What you’ll be doing**
+
+
+* Understand our identity management group codebase and development process: Jira, Technical Designs, Code Review, Testing, and Deployment.
+* Develop and implement frameworks and toolings for our Universal Directory Service platform.
+* Design and implement high\\-performance distributed scalable and fault\\-tolerant software components.
+* Quickly deliver high\\-quality bug fixes and handle customer\\-reported issues.
+* Conduct quality code reviews and automated testings.
+* Partner with our Product Development, QA, and Site Reliability Engineering teams for scoping the development and deployment work.
+
+  
+
+
+**What you’ll bring to the role**
+
+
+* The ideal candidate is someone who is experienced building software systems to manage and deploy reliable and performant infrastructure and product code at scale on a cloud infrastructure.
+* 7\\+ years of Software Development in Java, preferably significant experiences with Hibernate and Spring Boot.
+* 5\\+ years of development experience building services, internal tools and frameworks.
+* 3\\+ years experience automating and deploying large scale production services in AWS, GCP or similar.
+* Hands\\-on understanding with the practical application of SQL databases.
+* Experience working with systems of scale ranging from monolithic applications to microservices.
+* Ability to work effectively with distributed teams and people of various backgrounds.
+
+  
+
+
+**And extra credit if you have experience in any of the following!**
+
+
+* B.S. Computer Science or equivalent
+* Experience with the Go programming language.
+* Experience of PostgreSQL, Docker and Kubernetes.
+* Experience working with Active Directory or Microsoft Azure.
+
+  
+
+
+
+P17918\\_3419596
+
+
+
+\\#LI\\-TM
+
+
+
+\\#Hybrid
+
+
+Below is the annual base salary range for candidates located in San Francisco Bay Area. Your actual base salary will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit: https://rewards.okta.com/us.
+
+
+The annual base salary range for this position for candidates located in the San Francisco Bay area is between: $194,000—$243,000 USD **The Okta Experience**
+
+
+* Supporting Your Well\\-Being
+* Driving Social Impact
+* Developing Talent and Fostering Connection \\+ Community
+
+
+We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in\\-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.  
+
+  
+
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.  
+
+  
+
+If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this Form to request an accommodation.  
+
+  
+
+Notice for New York City Applicants \\& Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please  
+
+  
+
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Personnel and Job Candidate Privacy Notice at https://www.okta.com/legal/personnel\\-policy/.
+
+
+  
+Okta
+The foundation for secure connections between people and technology
+Okta is the leading independent provider of identity for the enterprise. The Okta Identity Cloud enables organizations to securely connect the right people to the right technologies at the right time. With over 7,000 pre\\-built integrations to applications and infrastructure providers, Okta customers can easily and securely use the best technologies for their business. More than 19,300 organizations, including JetBlue, Nordstrom, Slack, T\\-Mobile, Takeda, Teach for America, and Twilio, trust Okta to help protect the identities of their workforces and customers.","","https://www.indeed.com/cmp/Okta","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/427f2f962cd5167c0d1bdb73a3c0db13","http://www.okta.com","San Francisco, CA","5,001 to 10,000","$1B to $5B (USD)","Okta is the foundation for secure connections between people and technology.","","","","","",""
+"in-dd1bbfeeaefd30c5","indeed","https://www.indeed.com/viewjob?jk=dd1bbfeeaefd30c5","https://www.amazon.jobs/jobs/3146656/software-development-engineer?cmpid=DA_INAD200785B","Software Development Engineer","Amazon.com","Cupertino, CA, US","2025-12-19","fulltime","direct_data","yearly",129300.0,223600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Amazon Web Services (AWS) is building a central pipeline of Software Development Engineer (SDE) talent for anticipated roles in 2026\\. This requisition supports hiring across all AWS SDE positions, from fungible SDE roles to specialized engineering positions in areas including:  
+
+  
+
+* Embedded Systems
+* Game Development
+* Compiler Engineering
+* Artificial Intelligence/Machine Learning
+* Healthcare AI
+* Infrastructure Services
+* Firmware Development
+* Cloud Computing
+* Distributed Systems
+* Security Engineering
+* Video Processing and Streaming
+* Content Delivery Network (CDN)
+
+
+When you apply to this position, your profile will be considered for current and future SDE openings across AWS, including teams such as Twitch, AWS Elemental, and AWS CloudFront.  
+
+  
+
+Key job responsibilities  
+
+As an AWS Software Development Engineer, you will:  
+
+* Design, develop, and maintain efficient, reusable, and reliable code
+* Implement complex software solutions that meet business requirements
+* Collaborate with cross\\-functional teams to define, design, and ship new features
+* Identify and resolve performance bottlenecks and bugs
+* Participate in architecture and design reviews to provide technical guidance
+* Contribute to continuous improvement by identifying opportunities for process enhancement
+* Stay current with emerging technologies and industry trends
+* Mentor junior engineers and contribute to building a strong engineering culture
+
+  
+
+A day in the life  
+
+On a typical day as an AWS SDE, you might:  
+
+* Start your morning with a team stand\\-up to align on priorities and address any blockers
+* Collaborate with product managers to refine requirements for upcoming features
+* Write code and develop solutions for complex technical challenges
+* Review pull requests from team members, providing constructive feedback
+* Participate in design discussions for new services or features
+* Debug and troubleshoot production issues as they arise
+* Attend learning sessions to stay current with AWS technologies
+* Document your work and contribute to technical specifications
+* Engage with customers or internal stakeholders to better understand their needs
+
+  
+
+About the team  
+
+Our central SDE sourcing team specializes exclusively in the SDE job family across AWS. This team of experts understands the nuances of various SDE roles throughout the organization and serves as your dedicated resource throughout the hiring process. Here's what you can expect:  
+
+  
+
+* An SDE sourcer will contact you for an initial screening call to understand your background, skills, and interests
+* They will share specific details about what you need to succeed in the interview process
+* As the right roles become available, your sourcer will stay in touch and connect you with appropriate teams
+* Throughout the process, the central team will provide guidance and preparation support
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* 3\\+ years of building complex software systems experience
+* 2\\+ years of designing and developing large\\-scale, multi\\-tiered, multi\\-threaded, embedded or distributed software applications, tools, systems, and services using: C\\#, C\\+\\+, Java, or Perl experience
+* Bachelor's degree or equivalent
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Knowledge of ML frameworks including JAX, PyTorch, vLLM, SGLang, Dynamo, TorchXLA, and TensorRT
+* Knowledge of Machine Learning and LLM fundamentals, including transformer architecture, training/inference lifecycles, and optimization techniques
+* Knowledge of Python and/or C\\+\\+ programming
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-889ba3aa46c9b4ed","indeed","https://www.indeed.com/viewjob?jk=889ba3aa46c9b4ed","https://www.amazon.jobs/jobs/3146624/software-development-engineer?cmpid=DA_INAD200785B","Software Development Engineer","Amazon.com","Cupertino, CA, US","2025-12-19","fulltime","direct_data","yearly",129300.0,223600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Amazon Web Services (AWS) is building a central pipeline of Software Development Engineer (SDE) talent for anticipated roles in 2026\\. This requisition supports hiring across all AWS SDE positions, from fungible SDE roles to specialized engineering positions in areas including:  
+
+  
+
+* Embedded Systems
+* Game Development
+* Compiler Engineering
+* Artificial Intelligence/Machine Learning
+* Healthcare AI
+* Infrastructure Services
+* Firmware Development
+* Cloud Computing
+* Distributed Systems
+* Security Engineering
+* Video Processing and Streaming
+* Content Delivery Network (CDN)
+
+
+When you apply to this position, your profile will be considered for current and future SDE openings across AWS, including teams such as Twitch, AWS Elemental, and AWS CloudFront.  
+
+  
+
+Key job responsibilities  
+
+As an AWS Software Development Engineer, you will:  
+
+* Design, develop, and maintain efficient, reusable, and reliable code
+* Implement complex software solutions that meet business requirements
+* Collaborate with cross\\-functional teams to define, design, and ship new features
+* Identify and resolve performance bottlenecks and bugs
+* Participate in architecture and design reviews to provide technical guidance
+* Contribute to continuous improvement by identifying opportunities for process enhancement
+* Stay current with emerging technologies and industry trends
+* Mentor junior engineers and contribute to building a strong engineering culture
+
+  
+
+A day in the life  
+
+On a typical day as an AWS SDE, you might:  
+
+* Start your morning with a team stand\\-up to align on priorities and address any blockers
+* Collaborate with product managers to refine requirements for upcoming features
+* Write code and develop solutions for complex technical challenges
+* Review pull requests from team members, providing constructive feedback
+* Participate in design discussions for new services or features
+* Debug and troubleshoot production issues as they arise
+* Attend learning sessions to stay current with AWS technologies
+* Document your work and contribute to technical specifications
+* Engage with customers or internal stakeholders to better understand their needs
+
+  
+
+About the team  
+
+Our central SDE sourcing team specializes exclusively in the SDE job family across AWS. This team of experts understands the nuances of various SDE roles throughout the organization and serves as your dedicated resource throughout the hiring process. Here's what you can expect:  
+
+  
+
+* An SDE sourcer will contact you for an initial screening call to understand your background, skills, and interests
+* They will share specific details about what you need to succeed in the interview process
+* As the right roles become available, your sourcer will stay in touch and connect you with appropriate teams
+* Throughout the process, the central team will provide guidance and preparation support
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* 3\\+ years of building complex software systems experience
+* 2\\+ years of designing and developing large\\-scale, multi\\-tiered, multi\\-threaded, embedded or distributed software applications, tools, systems, and services using: C\\#, C\\+\\+, Java, or Perl experience
+* Bachelor's degree or equivalent
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Knowledge of ML frameworks including JAX, PyTorch, vLLM, SGLang, Dynamo, TorchXLA, and TensorRT
+* Knowledge of Machine Learning and LLM fundamentals, including transformer architecture, training/inference lifecycles, and optimization techniques
+* Knowledge of Python and/or C\\+\\+ programming
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-1977b70eb57ff297","indeed","https://www.indeed.com/viewjob?jk=1977b70eb57ff297","https://www.amazon.jobs/jobs/3144309/sr-software-engineer-manager?cmpid=DA_INAD200785B","Sr. Software Engineer, Manager","Amazon.com","San Francisco, CA, US","2025-12-16","fulltime","direct_data","yearly",184900.0,275200.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+If you are interested in this position, please apply on Twitch's Career site https://www.twitch.tv/jobs/en/  
+
+  
+
+About Us:  
+
+  
+
+Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.  
+
+  
+
+We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X, and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process.  
+
+  
+
+As an Engineering Manager on the Community Discovery team, you will lead one of three engineering teams working collaboratively to build innovative discovery experiences on Twitch. You'll partner closely with an applied science team to integrate cutting\\-edge algorithms into production systems that directly impact millions of daily active users.  
+
+  
+
+In this role, you'll oversee the development of software and services that power critical discovery features including recommendations, search, feed ranking, and notification relevance—helping creators connect with their audiences and viewers discover content they love.  
+
+  
+
+You can work from Twitch’s headquarters in San Francisco, CA; or from one of our hub locations in Seattle, WA; Irvine, CA; Los Angeles, CA or New York City, NY.
+  
+
+  
+
+You Will  
+
+  
+
+* Build the systems that provide the critical connection between viewers and creators within the Twitch ecosystem
+* Design and run consumer\\-scale services powering recommendations, ranking, and search results for tens of millions of users a day
+* Power and enable ML applications at scale
+* Partner with applied scientists and other engineering teams to design ML\\-powered systems that effectively solve customer problems
+* Drive the professional growth and career advancement of team members through structured development planning, mentorship, and strategic talent management
+* While driving the most prominent scenarios directly, you’ll also partner with stakeholders across the company integrating recommendations into their product features
+
+  
+
+Perks  
+
+* Medical, Dental, Vision \\& Disability Insurance
+* 401(k)
+* Maternity \\& Parental Leave
+* Flexible PTO
+* Amazon Employee Discount
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 5\\+ years of software development experience
+* BA/BS in computer science or equivalent industry experience
+* 3\\+ years of experience as software engineering manager
+* Development experience in one or more general purpose programming languages such as: Golang, Python, C/C\\+\\+, Java
+* Experience designing or architecting (design patterns, reliability, and scalability) of new and existing systems
+* Proven ability to identify user needs and deliver customer\\-centric product solutions
+* Experience developing and running large\\-scale consumer services
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Familiarity in the AWS ecosystem of service
+* Experience utilizing Agile development methodologies
+* Experience building or partnering to build ML\\-driven products (highly desirable)
+* Experience working with logging and both offline and online data pipelines
+* Experience in hiring, mentoring/coaching and managing teams of software engineers
+* Experience with full\\-stack or front\\-end development
+* Familiarity with Twitch, either as a viewer or creator (or both!)
+
+  
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+The base salary range for this position is listed below. Your Amazon package will include sign\\-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life \\& AD\\&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+
+  
+
+USA, CA, Culver City \\- 184,900\\.00 \\- 250,200\\.00 USD annually  
+
+USA, CA, Irvine \\- 184,900\\.00 \\- 250,200\\.00 USD annually  
+
+USA, CA, San Francisco \\- 212,700\\.00 \\- 287,700\\.00 USD annually  
+
+USA, NY, New York \\- 203,400\\.00 \\- 275,200\\.00 USD annually  
+
+USA, WA, SEATTLE \\- 184,900\\.00 \\- 250,200\\.00 USD annually  
+
+USA, WA, Seattle \\- 184,900\\.00 \\- 250,200\\.00 USD annually","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-2dc570ccbc2700ee","indeed","https://www.indeed.com/viewjob?jk=2dc570ccbc2700ee","https://www.amazon.jobs/jobs/3141336/software-engineer-i?cmpid=DA_INAD200785B","Software Engineer I","Amazon.com","San Francisco, CA, US","2025-12-11","fulltime","direct_data","yearly",99500.0,185000.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+If you are interested in this position, please apply on Twitch's Career site https://www.twitch.tv/jobs/en/  
+
+  
+
+About Us:  
+
+  
+
+Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.  
+
+We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X, and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process.  
+
+  
+
+About the Role  
+
+  
+
+Join Twitch's Commerce Engineering organization, where we're revolutionizing how viewers engage with their favorite creators. We are the teams behind Subscriptions, Gifting, Bits, Hype Train and Turbo products. From experimental features to established systems used by millions, we're constantly pushing the boundaries of what's possible in live streaming.  
+
+  
+
+This position and team are based in Seattle, WA and San Francisco, CA  
+
+  
+
+You Will  
+
+* Craft immersive, interactive experiences that keep viewers supporting creators while engaging with the Twitch Community.
+* Architect and build robust, scalable applications that can handle millions of concurrent users
+* Collaborate across teams to create cohesive solutions that drive business impact
+* Transform customer feedback into innovative features that enhance the Twitch experience
+
+
+Perks  
+
+* Medical, Dental, Vision \\& Disability Insurance
+* 401(k)
+* Maternity \\& Parental Leave
+* Flexible PTO
+* Amazon Employee Discount
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 1\\+ years of non\\-internship professional software development experience
+* 0\\-2 years of professional software development experience
+* Excellent verbal and written communication skills; Ability to effectively collaborate with teammates is critical to success.
+* A track record of building consumer\\-facing products that users love
+* Demonstrable experience of modern programming languages and frameworks
+* Sharp problem\\-solving skills with a focus on algorithms, data structures, and schema design
+* Bachelor's degree in Computer Science or equivalent real\\-world experience
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Bachelor's degree in computer science or equivalent
+* Experience with mobile development, either native or hybrid
+* Familiarity with AWS infrastructure
+* Experience with email / notifications technologies
+* Experience writing Go in production systems
+
+  
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $185,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-f9547d5ee92ba822","indeed","https://www.indeed.com/viewjob?jk=f9547d5ee92ba822","https://www.amazon.jobs/jobs/3138330/software-engineer-ii-android?cmpid=DA_INAD200785B","Software Engineer II, Android","Amazon.com","San Francisco, CA, US","2025-12-05","fulltime","direct_data","yearly",129300.0,223600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+If you are interested in this position, please apply on Twitch's Career site https://www.twitch.tv/jobs/en/  
+
+  
+
+About Us:  
+
+  
+
+Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.  
+
+  
+
+We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X, and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process.  
+
+  
+
+About the Role  
+
+  
+
+Join Twitch's Mobile Core Engineering team as an Android Software Engineer and help shape the foundation of mobile development across Twitch. As a platform team, Mobile Core provides critical tools, frameworks, and best practices that empower all mobile engineers at Twitch to build exceptional experiences for millions of users. Twitch is evolving its mobile strategy from native\\-first to a hybrid approach that leverages React in WebViews alongside native Android capabilities. You'll work on high\\-impact initiatives including our hybrid web\\-to\\-mobile platform, performance optimization at scale, automated testing infrastructure, and developer tooling that accelerates velocity across the organization. Your work will directly impact how hundreds of engineers build features and how millions of users experience Twitch on Android. This role requires independent operation and technical leadership, as you'll regularly provide guidance to product teams across Community and Commerce organizations.  
+
+  
+
+This position can sit in San Francisco, Irvine, or Seattle.
+  
+
+  
+
+You Will  
+
+  
+
+* Design and implement foundational Android components and frameworks that support both native and hybrid (React in WebView) experiences
+* Build robust WebView infrastructure and bridges that enable seamless integration between React\\-based web content and native Android functionality
+* Optimize performance and scalability of platform components used by millions of daily active users
+* Provide technical leadership and mentorship to Android engineers across multiple product teams on hybrid mobile architecture
+* Drive architectural decisions that balance developer velocity, app performance, and maintainability
+* Collaborate with cross\\-functional teams to establish and maintain development standards for hybrid mobile applications
+
+  
+
+Perks  
+
+* Medical, Dental, Vision \\& Disability Insurance
+* 401(k)
+* Maternity \\& Parental Leave
+* Flexible PTO
+* Amazon Employee Discount
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3\\+ years of Android development experience
+* Strong proficiency in Kotlin and modern Android development practices
+* Deep understanding of Android SDK, Jetpack libraries, and Android architecture components
+* Experience building and shipping production Android applications to the Google Play Store
+* Experience leveraging AI\\-powered development tools (such as GitHub Copilot, Cursor, or similar) to accelerate development
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Experience with hybrid mobile architectures, WebView integration, JavaScript bridges, React, or React Native
+* Experience with video streaming or real\\-time communication technologies
+* Experience working on platform or infrastructure teams that support multiple product teams
+
+  
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-5757e65011739062","indeed","https://www.indeed.com/viewjob?jk=5757e65011739062","https://www.amazon.jobs/jobs/3136266/robotics--software-development-engineer-interncoop--?cmpid=DA_INAD200785B","Robotics - Software Development Engineer Intern/Co-op - 2026","Amazon.com","Sunnyvale, CA, US","2025-12-02","fulltime","direct_data","yearly",105000.0,185000.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Do you want to solve real customer problems through innovative technology? Do you enjoy working on scalable services in a collaborative team environment? Do you want to see your code directly impact millions of customers worldwide?  
+
+  
+
+At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. Customer obsession is part of our company DNA, which has made us one of the world's most beloved brands.  
+
+  
+
+Our Software Development Engineers (SDEs) use modern technology to solve complex problems while seeing their work's impact first\\-hand. The challenges SDEs solve at Amazon are meaningful and influence millions of customers, sellers, and products globally. We seek individuals passionate about creating new products, features, and services while managing ambiguity in an environment where development cycles are measured in weeks, not years.
+  
+
+  
+
+At Amazon, we believe in ownership at every level. As an SDE\\-I, you'll own the entire lifecycle of your code \\- from design through deployment and ongoing operations. This ownership mindset, combined with our commitment to operational excellence, ensures we deliver the highest quality solutions for our customers.  
+
+  
+
+We're looking for curious minds who think big and want to define tomorrow's technology. At Amazon, you'll grow into the high\\-impact engineer you know you can be, supported by a culture of learning and mentorship. Every day brings exciting new challenges and opportunities for personal growth.  
+
+  
+
+Amazon internships across all seasons are full\\-time positions, and intern/co\\-ops should expect to work in office, Monday\\-Friday, up to 40 hours per week typically between 8am\\-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other employment during the Amazon work\\-day. Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship concludes.  
+
+  
+
+Please note that by applying to this role you would be considered for Software Development Engineer summer intern and spring/fall co\\-op roles on various Robotics teams. You will be able to provide your preference of location and start date during the application process but, we cannot guarantee that we can meet your selection based on several factors including but not limited to the availability and business needs of this role. Finalization on the location and start dates available will be provided to you at the time of job offer.  
+
+  
+
+Key job responsibilities  
+
+* Collaborate and communicate effectively with experienced cross\\-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward.
+* Design and develop scalable solutions using cloud\\-native architectures and microservices in a large distributed computing environment.
+* Participate in code reviews and contribute to technical documentation.
+* Build and maintain resilient distributed systems that are scalable, fault\\-tolerant, and cost\\-effective.
+* Leverage and contribute to the development of GenAI and AI\\-powered tools to enhance development productivity while staying current with emerging technologies.
+* Write clean, maintainable code following best practices and design patterns.
+* Work in an agile environment practicing CI/CD principles while participating in operational responsibilities including on\\-call duties.
+* Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues.
+* Design, develop and test software components that interact with fulfillment center technologies, such as robotics, material handling equipment, computer vision, and cloud services.
+
+  
+
+A day in the life  
+
+As an SDE intern/co\\-op, you will be matched to a manager and a mentor and will have the opportunity to influence the evolution of Amazon technology and lead critical projects early in your career.
+  
+
+  
+
+In addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand your network, and participate in activities with other interns/co\\-ops throughout your internship. No matter the location of your internship/co\\-op, we give you the tools to own your project and learn in a real\\-world setting.  
+
+  
+
+About the team  
+
+Learn more about Robotics at Amazon:  
+
+  
+
+https://amazon.jobs/en/teams/amazon\\-robotics  
+
+  
+
+https://www.aboutamazon.com/news/operations/amazon\\-robotics\\-robots\\-fulfillment\\-center  
+
+  
+
+https://www.aboutamazon.com/news/operations/amazon\\-million\\-robots\\-ai\\-foundation\\-model**BASIC QUALIFICATIONS**
+------------------------
+
+* Are 18 years of age or older
+* Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields
+* Experience with at least one general\\-purpose programming language such as Java, Python, C\\+\\+, C\\#, Go, Rust, or TypeScript
+* Experience with data structure implementation, basic algorithm development, and/or object\\-oriented design principles
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Experience from previous technical internship(s) or demonstrated project experience
+* Experience with Cloud platforms (preferably AWS), database systems (SQL and NoSQL), AI tools for development productivity, contributing to open\\-source projects, and/or version control systems
+* Strong problem\\-solving and analytical skills; Excellent written and verbal communication skills
+* Demonstrated ability to learn and adapt to new technologies quickly
+* Basic understanding of software development lifecycle (SDLC)
+* Experience within Robotics, Computer Vision, Machine Learning, Optimization, Manipulation, Perception, Motion Planning and Controls, Movement, Autonomous Navigation, Path Planning, or related
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+The starting pay for this position is listed below. Final starting pay will be based on factors including experience, qualifications, and location. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching. Learn more about our benefits at https://hiring.amazon.com/why\\-amazon/benefits.
+
+  
+
+USA, CA, Sunnyvale \\- 127,100\\.00 \\- 185,000\\.00 USD annually  
+
+USA, MA, North Reading \\- 110,500\\.00 \\- 160,000\\.00 USD annually  
+
+USA, MA, Westboro \\- 110,500\\.00 \\- 160,000\\.00 USD annually  
+
+USA, TN, Nashville \\- 105,000\\.00 \\- 156,000\\.00 USD annually  
+
+USA, TX, Austin \\- 110,500\\.00 \\- 160,000\\.00 USD annually  
+
+USA, VA, Arlington \\- 110,500\\.00 \\- 160,000\\.00 USD annually  
+
+USA, WA, Bellevue \\- 110,500\\.00 \\- 160,000\\.00 USD annually  
+
+USA, WA, Seattle \\- 110,500\\.00 \\- 160,000\\.00 USD annually","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-1b8a167c8123ef1f","indeed","https://www.indeed.com/viewjob?jk=1b8a167c8123ef1f","https://www.amazon.jobs/jobs/3120218/firmware-engineer-annapurna-labs-ml-acceleration--performance-instrumentation--developer-tools?cmpid=DA_INAD200785B","Firmware Engineer, Annapurna Labs, ML Acceleration - Performance Instrumentation & Developer Tools","Amazon Web Services","Cupertino, CA, US","2025-11-03","fulltime","direct_data","yearly",129300.0,223600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+AWS Utility Computing (UC) provides product Annapurna Labs (our organization within AWS UC) designs silicon and software that accelerates innovation. Customers choose us to create cloud solutions that solve challenges that were unimaginable a short time ago—even yesterday. Our custom chips, accelerators, and software stacks enable us to take on technical challenges that have never been seen before, and deliver results that help our customers change the world.  
+
+  
+
+We are seeking a Senior Firmware Engineer to join our Power Architecture team, developing firmware algorithms for power and performance management on ML Acceleration Chips. In this role, you will design and implement intelligent control algorithms, optimization strategies, and real\\-time decision\\-making systems that maximize performance while managing power and thermal constraints.  
+
+  
+
+You will develop sophisticated firmware that monitors system state, makes dynamic trade\\-offs between power and performance, and implements adaptive control policies. To enable this work, you will also build instrumentation and tracing capabilities that provide the telemetry needed to develop, tune, and validate your algorithms, with collected data optionally post\\-processed using cloud\\-based analytics.  
+
+  
+
+Key job responsibilities  
+
+* Design and implement firmware algorithms for power management, thermal control, and performance optimization on ML acceleration hardware
+* Develop real\\-time control policies and state machines that dynamically balance power, thermal, and performance constraints
+* Create optimization algorithms for resource allocation, frequency/voltage scaling, and workload scheduling
+* Implement efficient data structures and algorithms suitable for embedded, resource\\-constrained environments
+* Design and implement on\\-device tracing and telemetry collection systems to support algorithm development and validation
+* Build developer tools and data pipelines for metric collection, analysis, and visualization of algorithm behavior
+* Implement low\\-overhead instrumentation that minimizes impact on workload performance
+* Collaborate with hardware architects to understand hardware capabilities and identify optimal instrumentation points
+* Develop automated testing and validation workflows; integrate with optional cloud\\-based analytics pipelines
+* Own firmware code quality through rigorous testing, debugging, and validation on hardware
+
+  
+
+A day in the life  
+
+You will work closely with power architects and hardware teams to understand silicon capabilities, implement low\\-level control mechanisms, and create the algorithms and tooling that deliver optimal system behavior.  
+
+  
+
+This position is ideal for firmware engineers who enjoy solving algorithmic challenges in resource\\-constrained environments, working close to hardware, and building systems that intelligently manage complex trade\\-offs in real\\-time.  
+
+  
+
+About the team  
+
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge\\-sharing and mentorship. Our senior members enjoy one\\-on\\-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects that help our team members develop your engineering expertise so you feel empowered to take on more complex tasks in the future.  
+
+  
+
+Diverse Experiences  
+
+AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+
+  
+
+About AWS  
+
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+
+  
+
+Inclusive Team Culture  
+
+Here at AWS, it’s in our nature to learn and be curious. Our employee\\-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
+
+  
+
+Work/Life Balance  
+
+We value work\\-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.  
+
+  
+
+Mentorship \\& Career Growth  
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge\\-sharing, mentorship and other career\\-advancing resources here to help you develop into a better\\-rounded professional.**BASIC QUALIFICATIONS**
+------------------------
+
+* 3\\+ years of software development, or 3\\+ years of software development experience
+* Bachelor's degree in computer science, electrical engineering, or related field
+* Strong firmware or embedded systems development experience
+* Proficiency in C/C\\+\\+ for systems programming with strong foundation in algorithms and data structures
+* Experience implementing efficient algorithms in resource\\-constrained, real\\-time environments
+* Experience with hardware interfaces, instrumentation, or performance monitoring
+* Strong debugging skills with hardware\\-software systems
+* Experience building developer tools or instrumentation frameworks
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Experience developing control algorithms, optimization algorithms, or state machines in firmware
+* Experience with power management algorithms, thermal control policies, or dynamic performance optimization
+* Background in tracing frameworks, telemetry systems, or performance analysis
+* Understanding of algorithmic complexity and optimization techniques for embedded systems
+* Familiarity with hardware performance counters, on\\-chip monitoring, or hardware debug interfaces
+* Experience with data collection pipelines and scripting (Python, shell) for algorithm validation
+* Understanding of ML training/inference workloads and their performance characteristics
+* Takes strong ownership, works effectively in ambiguous situations, demonstrates a bias for action while consistently delivering impactful results
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-a1fc8da0daa6b8df","indeed","https://www.indeed.com/viewjob?jk=a1fc8da0daa6b8df","https://www.amazon.jobs/jobs/3120062/sr-software-dev-engineer-machine-learning-sponsored-products-and-brands-ads-response-prediction?cmpid=DA_INAD200785B","Sr Software Dev Engineer, Machine Learning, Sponsored Products and Brands Ads Response Prediction","Amazon.com","Palo Alto, CA, US","2025-11-03","fulltime","direct_data","yearly",151300.0,261500.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+About Sponsored Products and Brands  
+
+  
+
+The Sponsored Products and Brands (SPB) team at Amazon Ads is re\\-imagining the advertising landscape through generative AI technologies, revolutionizing how millions of customers discover products and engage with brands across Amazon.com and beyond. We are at the forefront of re\\-inventing advertising experiences, bridging human creativity with artificial intelligence to transform every aspect of the advertising lifecycle from ad creation and optimization to performance analysis and customer insights. We are a passionate group of innovators dedicated to developing responsible and intelligent AI technologies that balance the needs of advertisers, enhance the shopping experience, and strengthen the marketplace. If you're energized by solving complex challenges and pushing the boundaries of what's possible with AI, join us in shaping the future of advertising.  
+
+  
+
+Key job responsibilities  
+
+As a Software Development Engineer in Machine Learning, you will:
+  
+
+* Enhance the scalability, automation, and efficiency of large\\-scale training and real\\-time inference systems.
+* Pioneer the development of LLM inference infrastructure to support next\\-generation GenAI workloads at Amazon Ads scale.
+* Work closely with applied scientists to optimize the performance of machine\\-learning models and infrastructure, and implement end\\-to\\-end solutions.
+
+  
+
+About the team  
+
+SPB Ad Response Prediction team is your choice, if you want to join a highly motivated, collaborative, and fun\\-loving team with a strong entrepreneurial spirit and bias for action. We are looking for a talented Software Engineer with a strong background in machine learning engineering to join our team and help us grow the business. In this role, you will partner with a team of engineers and scientists to build advanced machine learning models and infrastructure, from training to inference, including emerging LLM\\-based systems, that deliver highly relevant ads to shoppers across all Amazon platforms and surfaces worldwide.**BASIC QUALIFICATIONS**
+------------------------
+
+* 5\\+ years of non\\-internship professional software development experience
+* 5\\+ years of programming with at least one software programming language experience
+* 5\\+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience as a mentor, tech lead or leading an engineering team
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 5\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-7135404c13121e9c","indeed","https://www.indeed.com/viewjob?jk=7135404c13121e9c","https://www.amazon.jobs/jobs/3120217/sr-firmware-engineer-annapurna-labs-machine-learning-acceleration--power-and-performance?cmpid=DA_INAD200785B","Sr. Firmware Engineer, Annapurna Labs, Machine Learning Acceleration - Power and Performance","Amazon Web Services","Cupertino, CA, US","2025-11-03","fulltime","direct_data","yearly",151300.0,261500.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+AWS Utility Computing (UC) provides product Annapurna Labs (our organization within AWS UC) designs silicon and software that accelerates innovation. Customers choose us to create cloud solutions that solve challenges that were unimaginable a short time ago—even yesterday. Our custom chips, accelerators, and software stacks enable us to take on technical challenges that have never been seen before, and deliver results that help our customers change the world.  
+
+  
+
+We are seeking a Senior Firmware Engineer to join our Power Architecture team, developing firmware algorithms for power and performance management on ML Acceleration Chips. In this role, you will design and implement intelligent control algorithms, optimization strategies, and real\\-time decision\\-making systems that maximize performance while managing power and thermal constraints.  
+
+  
+
+You will develop sophisticated firmware that monitors system state, makes dynamic trade\\-offs between power and performance, and implements adaptive control policies. To enable this work, you will also build instrumentation and tracing capabilities that provide the telemetry needed to develop, tune, and validate your algorithms, with collected data optionally post\\-processed using cloud\\-based analytics.  
+
+  
+
+Key job responsibilities  
+
+* Design and implement firmware algorithms for power management, thermal control, and performance optimization on ML acceleration hardware
+* Develop real\\-time control policies and state machines that dynamically balance power, thermal, and performance constraints
+* Create optimization algorithms for resource allocation, frequency/voltage scaling, and workload scheduling
+* Implement efficient data structures and algorithms suitable for embedded, resource\\-constrained environments
+* Design and implement on\\-device tracing and telemetry collection systems to support algorithm development and validation
+* Build developer tools and data pipelines for metric collection, analysis, and visualization of algorithm behavior
+* Implement low\\-overhead instrumentation that minimizes impact on workload performance
+* Collaborate with hardware architects to understand hardware capabilities and identify optimal instrumentation points
+* Develop automated testing and validation workflows; integrate with optional cloud\\-based analytics pipelines
+* Own firmware code quality through rigorous testing, debugging, and validation on hardware
+
+  
+
+A day in the life  
+
+You will work closely with power architects and hardware teams to understand silicon capabilities, implement low\\-level control mechanisms, and create the algorithms and tooling that deliver optimal system behavior.  
+
+  
+
+This position is ideal for firmware engineers who enjoy solving algorithmic challenges in resource\\-constrained environments, working close to hardware, and building systems that intelligently manage complex trade\\-offs in real\\-time.  
+
+  
+
+About the team  
+
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge\\-sharing and mentorship. Our senior members enjoy one\\-on\\-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects that help our team members develop your engineering expertise so you feel empowered to take on more complex tasks in the future.  
+
+  
+
+Diverse Experiences  
+
+AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+
+  
+
+About AWS  
+
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+
+  
+
+Inclusive Team Culture  
+
+Here at AWS, it’s in our nature to learn and be curious. Our employee\\-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
+
+  
+
+Work/Life Balance  
+
+We value work\\-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.  
+
+  
+
+Mentorship \\& Career Growth  
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge\\-sharing, mentorship and other career\\-advancing resources here to help you develop into a better\\-rounded professional.**BASIC QUALIFICATIONS**
+------------------------
+
+* 5\\+ years of non\\-internship professional software development experience
+* Experience as a mentor, tech lead or leading an engineering team
+* Bachelor's degree in computer science, electrical engineering, or related field
+* Strong firmware or embedded systems development experience
+* Proficiency in C/C\\+\\+ for systems programming with strong foundation in algorithms and data structures
+* Experience implementing efficient algorithms in resource\\-constrained, real\\-time environments
+* Experience with hardware interfaces, instrumentation, or performance monitoring
+* Strong debugging skills with hardware\\-software systems
+* Experience building developer tools or instrumentation frameworks
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Experience developing control algorithms, optimization algorithms, or state machines in firmware
+* Experience with power management algorithms, thermal control policies, or dynamic performance optimization
+* Background in tracing frameworks, telemetry systems, or performance analysis
+* Understanding of algorithmic complexity and optimization techniques for embedded systems
+* Familiarity with hardware performance counters, on\\-chip monitoring, or hardware debug interfaces
+* Experience with data collection pipelines and scripting (Python, shell) for algorithm validation
+* Understanding of ML training/inference workloads and their performance characteristics
+* Takes strong ownership, works effectively in ambiguous situations, demonstrates a bias for action while consistently delivering impactful results
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-de4cdb7af41432ab","indeed","https://www.indeed.com/viewjob?jk=de4cdb7af41432ab","https://www.amazon.jobs/jobs/3082168/software-engineer-i-ad-demand?cmpid=DA_INAD200785B","Software Engineer I- Ad Demand","Amazon.com","San Francisco, CA, US","2025-09-09","fulltime","direct_data","yearly",99500.0,200000.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+If you are interested in this position, please apply on Twitch's Career site https://www.twitch.tv/jobs/en/  
+
+  
+
+About Us:  
+
+Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.  
+
+  
+
+We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X, and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process.  
+
+  
+
+About the Role  
+
+  
+
+The Twitch Ads team manages a comprehensive advertising ecosystem that balances revenue generation with user and advertiser satisfaction. We deliver promotional content through multiple channels while maintaining seamless experiences for viewers, creators and advertisers. Our team is responsible for driving up Ad Supply quality for Twitch and enabling Ad Demand via various domains including Ads Targeting, Brand Safety\\&Suitability, Measurement, Privacy and Ads Data Platform. These critical technical solutions drive essential business operations and enable trustworthy products for advertisers that are measurable and targetable.
+  
+
+  
+
+You will become an expert across the breadth of services powering these products \\- architecting, building, and operating them and working closely with the engineers within the Twitch Ads and Amazon Ads orgs. You will be empowered to work across the stack, and will partner with other engineers, product managers, designers, and data analysts to deliver solutions.  
+
+  
+
+This position is in San Francisco, CA.  
+
+  
+
+You Will  
+
+* Work with product managers, technical leads, and other engineers to design, develop, launch, and operate interactive experiences and products
+* Build distributed applications at scale
+
+
+\\- Collaborate with both your team and related teams \\- fostering shared understanding of how to solve problems and deliver solutions
+  
+
+* Work backwards from customer problems to drive business impact
+
+  
+
+Perks  
+
+* Medical, Dental, Vision \\& Disability Insurance
+* 401(k)
+* Maternity \\& Parental Leave
+* Flexible PTO
+* Amazon Employee Discount
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 1\\+ Years experience developing software in a professional environment
+* Prior experience building consumer\\-facing products at scale
+* Proficient coding skills in modern languages and frameworks
+* Proven ability with algorithms, data structures, data modeling, and schema design
+* Minimum of Bachelor’s degree in Computer Science or equivalent experience
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Experience with languages/frameworks we use at Twitch: Golang, Typescript/React
+* Experience building software and services using AWS technologies such as ECS, DynamoDB, Lambda, SQS, and Step Functions
+* Familiarity with Twitch, gaming, and/or streaming on Twitch
+
+  
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-2c9b3b764081603b","indeed","https://www.indeed.com/viewjob?jk=2c9b3b764081603b","https://www.amazon.jobs/jobs/3055172/senior-software-development-engineer-aiml-aws-neuron-model-inference?cmpid=DA_INAD200785B","Senior Software Development Engineer, AI/ML, AWS Neuron, Model Inference","Amazon Web Services","Cupertino, CA, US","2025-08-06","fulltime","direct_data","yearly",151300.0,261500.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+The Annapurna Labs team at Amazon Web Services (AWS) builds AWS Neuron, the software development kit used to accelerate deep learning and GenAI workloads on Amazon’s custom machine learning accelerators, Inferentia and Trainium.  
+
+  
+
+The AWS Neuron SDK, developed by the Annapurna Labs team at AWS, is the backbone for accelerating deep learning and GenAI workloads on Amazon's Inferentia and Trainium ML accelerators. This comprehensive toolkit includes an ML compiler, runtime, and application framework that seamlessly integrates with popular ML frameworks like PyTorch and JAX enabling unparalleled ML inference and training performance.  
+
+  
+
+The Inference Enablement and Acceleration team is at the forefront of running a wide range of models and supporting novel architecture alongside maximizing their performance for AWS's custom ML accelerators. Working across the stack from PyTorch till the hardware\\-software boundary, our engineers build systematic infrastructure, innovate new methods and create high\\-performance kernels for ML functions, ensuring every compute unit is fine tuned for optimal performance for our customers' demanding workloads. We combine deep hardware knowledge with ML expertise to push the boundaries of what's possible in AI acceleration.  
+
+  
+
+As part of the broader Neuron organization, our team works across multiple technology layers \\- from frameworks and kernels and collaborate with compiler to runtime and collectives. We not only optimize current performance but also contribute to future architecture designs, working closely with customers to enable their models and ensure optimal performance. This role offers a unique opportunity to work at the intersection of machine learning, high\\-performance computing, and distributed architectures, where you'll help shape the future of AI acceleration technology  
+
+  
+
+You will architect and implement business critical features, and mentor a brilliant team of experienced engineers. We operate in spaces that are very large, yet our teams remain small and agile. There is no blueprint. We're inventing. We're experimenting. It is a very unique learning culture. The team works closely with customers on their model enablement, providing direct support and optimization expertise to ensure their machine learning workloads achieve optimal performance on AWS ML accelerators. The team collaborates with open source ecosystems to provide seamless integration and bring peak performance at scale for customers and developers.  
+
+  
+
+This role is responsible for development, enablement and performance tuning of a wide variety of LLM model families, including massive scale large language models like the Llama family, DeepSeek and beyond. The Inference Enablement and Acceleration team works side by side with compiler engineers and runtime engineers to create, build and tune distributed inference solutions with Trainium and Inferentia. Experience optimizing inference performance for both latency and throughput on such large models across the stack from system level optimizations through to Pytorch or JAX is a must have.  
+
+  
+
+You can learn more about Neuron
+  
+
+https://awsdocs\\-neuron.readthedocs\\-hosted.com  
+
+https://aws.amazon.com/machine\\-learning/neuron/ https://github.com/aws/aws\\-neuron\\-sdk https://www.amazon.science/how\\-silicon\\-innovation\\-became\\-the\\-secret\\-sauce\\-behind\\-awss\\-success  
+
+  
+
+Key job responsibilities  
+
+This role will help lead the efforts in building distributed inference support for Pytorch in the Neuron SDK. This role will tune these models to ensure highest performance and maximize the efficiency of them running on the customer AWS Trainium and Inferentia silicon and servers. Strong software development using Python, System level programming and ML knowledge are both critical to this role. Our engineers collaborate across compiler, runtime, framework, and hardware teams to optimize machine learning workloads for our global customer base. Working at the intersection of software, hardware, and machine learning systems, you'll bring expertise in low\\-level optimization, system architecture, and ML model acceleration.
+  
+
+  
+
+In this role, you will:  
+
+* would with state of the art LLMs, Open source and internal LLM families, large scale performance and benchmark evaluations etc.,
+
+  
+
+* develop and performance tune a wide variety of LLM model families, including 500B\\+ large language models like the Llama family, DeepSeek and beyond.
+
+  
+
+* work side by side with performance, compiler and runtime engineers to create, build and tune distributed inference solutions with Trainium and Inferentia.
+
+  
+
+* build infrastructure to systematically analyze and onboard multiple models with diverse architecture.
+
+  
+
+* collaborate with performance team to enable and evaluate optimizations such as fusion, sharding, tiling, and scheduling etc.,
+
+  
+
+* conduct comprehensive testing, including unit and end\\-to\\-end model testing with continuous deployment and releases through pipelines.
+
+  
+
+* work directly with customers to enable and optimize their ML models on AWS accelerators
+
+  
+
+* collaborate across teams to develop innovative optimization techniques
+
+  
+
+* Build online/offline inference serving with vLLM, SGLang, TensorRT or similar platforms in production environments.
+
+  
+
+A day in the life  
+
+You will collaborate with a cross\\-functional team of applied scientists, system engineers, and product managers to deliver state\\-of\\-the\\-art inference capabilities for Generative AI applications. Your work will involve debugging performance issues, optimizing memory usage, and shaping the future of Neuron's inference stack across Amazon and the Open Source Community. As you design and code solutions to help our team drive efficiencies in software architecture, you’ll create metrics, implement automation and other improvements, and resolve the root cause of software defects.  
+
+  
+
+You will also build high\\-impact solutions to deliver to our large customer base and participate in design discussions, code review, and communicate with internal and external stakeholders. You will work cross\\-functionally to help drive business decisions with your technical input. You will work in a startup\\-like development environment, where you’re always working on the most important initiative.  
+
+  
+
+About the team  
+
+The Inference Enablement and Acceleration team fosters a builder’s culture where experimentation is encouraged, and impact is measurable. We emphasize collaboration, technical ownership, and continuous learning. Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge\\-sharing and mentorship. Our senior members enjoy one\\-on\\-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects that help our team members develop your engineering expertise so you feel empowered to take on more complex tasks in the future. Join us to solve some of the most interesting and impactful infrastructure challenges in AI/ML today.**BASIC QUALIFICATIONS**
+------------------------
+
+* 5\\+ years of non\\-internship professional software development experience
+* 5\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Fundamentals of Machine learning and LLMs, their architecture, training and inference lifecycles along with work experience on some optimizations for improving the model execution.
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 5\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Masters degree in computer science or equivalent
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-383c50b9c57ad98d","indeed","https://www.indeed.com/viewjob?jk=383c50b9c57ad98d","https://www.amazon.jobs/jobs/2994349/software-development-engineer-aws-compute-services?cmpid=DA_INAD200785B","Software Development Engineer, AWS Compute Services","Amazon Web Services","Sunnyvale, CA, US","2025-05-28","fulltime","direct_data","yearly",143700.0,223600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Application deadline: Applications will be accepted on an ongoing basis  
+
+  
+
+Serverless Compute (https://aws.amazon.com/serverless/?nc2\\=type\\_a) is changing the way we think about computing in the cloud. Serverless computing offers customers an exciting new way to create applications, turn business logic and application code into scalable, fault\\-tolerant production systems without requiring them to be experts in distributed systems, deployment technologies, and infrastructure management. AWS offers technologies for running code, managing data, and integrating applications, all without managing servers.
+  
+
+  
+
+In this role you will work with team to build the new generic platform by using latest AWS technologies. You will solve interesting technical challenges with creative ideas in the domain combined by event driven application and Serverless technologies. You will build features for the distributed and large\\-scale system which will handle billions or trillions transactions. You have opportunities to re\\-shape the experience of Serverless development.  
+
+  
+
+10017  
+
+  
+
+A day in the life  
+
+Why AWS  
+
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+
+  
+
+\\*\\*Diverse Experiences\\*\\*  
+
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+
+  
+
+\\*\\*Work/Life Balance\\* \\*  
+
+We value work\\-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+  
+
+\\*\\*Mentorship and Career Growth\\*\\*  
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge\\-sharing, mentorship and other career\\-advancing resources here to help you develop into a better\\-rounded professional.
+  
+
+  
+
+About the team  
+
+\\*Utility Computing (UC)\\*
+  
+
+AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3\\) and Amazon Elastic Compute Cloud (EC2\\), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+The base salary range for this position is listed below. For salaried roles, your Amazon package will include listed sign\\-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life \\& AD\\&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits/us\\-benefits\\-and\\-stock.  
+
+  
+
+Colorado $143,700 \\- $194,400 annually  
+
+National $129,300 \\- $223,600 annually","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-47ca23c90cfc6ab2","indeed","https://www.indeed.com/viewjob?jk=47ca23c90cfc6ab2","https://www.amazon.jobs/jobs/2994349/software-development-engineer-aws-compute-services?cmpid=DA_INAD200785B","Software Development Engineer, AWS Compute Services","Amazon Web Services","Cupertino, CA, US","2025-05-28","fulltime","direct_data","yearly",143700.0,223600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Application deadline: Applications will be accepted on an ongoing basis  
+
+  
+
+Serverless Compute (https://aws.amazon.com/serverless/?nc2\\=type\\_a) is changing the way we think about computing in the cloud. Serverless computing offers customers an exciting new way to create applications, turn business logic and application code into scalable, fault\\-tolerant production systems without requiring them to be experts in distributed systems, deployment technologies, and infrastructure management. AWS offers technologies for running code, managing data, and integrating applications, all without managing servers.
+  
+
+  
+
+In this role you will work with team to build the new generic platform by using latest AWS technologies. You will solve interesting technical challenges with creative ideas in the domain combined by event driven application and Serverless technologies. You will build features for the distributed and large\\-scale system which will handle billions or trillions transactions. You have opportunities to re\\-shape the experience of Serverless development.  
+
+  
+
+10017  
+
+  
+
+A day in the life  
+
+Why AWS  
+
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+
+  
+
+\\*\\*Diverse Experiences\\*\\*  
+
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+
+  
+
+\\*\\*Work/Life Balance\\* \\*  
+
+We value work\\-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+  
+
+\\*\\*Mentorship and Career Growth\\*\\*  
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge\\-sharing, mentorship and other career\\-advancing resources here to help you develop into a better\\-rounded professional.
+  
+
+  
+
+About the team  
+
+\\*Utility Computing (UC)\\*
+  
+
+AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3\\) and Amazon Elastic Compute Cloud (EC2\\), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+The base salary range for this position is listed below. For salaried roles, your Amazon package will include listed sign\\-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life \\& AD\\&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits/us\\-benefits\\-and\\-stock.  
+
+  
+
+Colorado $143,700 \\- $194,400 annually  
+
+National $129,300 \\- $223,600 annually","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-4883ef7b9701d2ac","indeed","https://www.indeed.com/viewjob?jk=4883ef7b9701d2ac","https://www.amazon.jobs/jobs/2987643/senior-software-engineer--query-processing-aurora-dsql?cmpid=DA_INAD200785B","Senior Software Engineer - Query Processing, Aurora DSQL","Amazon Web Services","East Palo Alto, CA, US","2025-05-20","fulltime","direct_data","yearly",151300.0,261500.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Amazon Aurora DSQL is a serverless, distributed SQL database with virtually unlimited scale, highest availability, and zero infrastructure management. Aurora DSQL provides active\\-active high availability, providing strong data consistency designed for 99\\.99% single\\-Region and 99\\.999% multi\\-Region availability. Aurora DSQL automatically manages and scales system resources, so you don't have to worry about maintenance downtime and provisioning, patching, or upgrading infrastructure.  
+
+  
+
+We are seeking an engineer to enhance the query optimization and execution layer of Aurora DSQL. The role focuses on designing and implementing query optimization algorithms, cost\\-based optimization strategies, and core execution engine improvements. The ideal candidate has deep experience with database system internals and query optimizer architectures.  
+
+  
+
+AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3\\) and Amazon Elastic Compute Cloud (EC2\\), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.  
+
+  
+
+Key job responsibilities  
+
+Our engineers collaborate across diverse teams, projects, and environments to have a firsthand impact on our global customer base. You’ll bring a passion for innovation, data, search, analytics, and distributed systems. You’ll also:  
+
+Solve challenging technical problems, often ones not solved before, at every layer of the stack.  
+
+Design, implement, test, deploy and maintain innovative software solutions to transform service performance, durability, cost, and security.  
+
+Build high\\-quality, highly available, always\\-on products.  
+
+Research implementations that deliver the best possible experiences for customers.  
+
+  
+
+A day in the life  
+
+As you design and code solutions to help our team drive efficiencies in software architecture, you’ll create metrics, implement automation and other improvements, and resolve the root cause of software defects. You’ll also:  
+
+Build high\\-impact solutions to deliver to our large customer base.  
+
+Participate in design discussions, code review, and communicate with internal and external stakeholders.  
+
+Work cross\\-functionally to help drive business decisions with your technical input.  
+
+Work in a startup\\-like development environment, where you’re always working on the most important stuff.  
+
+  
+
+About the team  
+
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge\\-sharing and mentorship. Our senior members enjoy one\\-on\\-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects that help our team members develop your engineering expertise so you feel empowered to take on more complex tasks in the future.  
+
+  
+
+Diverse Experiences  
+
+AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+
+  
+
+About AWS  
+
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+
+  
+
+Inclusive Team Culture  
+
+Here at AWS, it’s in our nature to learn and be curious. Our employee\\-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon conferences, inspire us to never stop embracing our uniqueness.  
+
+  
+
+Work/Life Balance  
+
+We value work\\-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.  
+
+  
+
+Mentorship \\& Career Growth  
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge\\-sharing, mentorship and other career\\-advancing resources here to help you develop into a better\\-rounded professional.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 5\\+ years of non\\-internship professional software development experience
+* 5\\+ years of programming with at least one software programming language experience
+* 4\\+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience as a mentor, tech lead or leading an engineering team
+* Strong background in database system internals and query processing fundamentals
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 2\\+ years of experience with query optimizer architectures, cost based optimizers in OLTP database engines
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"li-4404926909","linkedin","https://www.linkedin.com/jobs/view/4404926909","","Software Engineer, AI Capture","Notion","San Francisco, CA","2026-04-22","","","","","","",False,"","","","","","","https://www.linkedin.com/company/notionhq","","","","","","","","","","","",""
+"li-4405233819","linkedin","https://www.linkedin.com/jobs/view/4405233819","","Software Engineer","Gumloop","San Francisco, CA","2026-04-22","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/gumloop","","","","","","","","","","","",""
+"li-4405265985","linkedin","https://www.linkedin.com/jobs/view/4405265985","","Software Engineer, Platform & Infrastructure","Verse","San Francisco, CA","2026-04-22","","","","","","",False,"","","","","","","https://www.linkedin.com/company/versedotinc","","","","","","","","","","","",""
+"li-3985806293","linkedin","https://www.linkedin.com/jobs/view/3985806293","","Software Engineer 4 - Content & Business Products","Netflix","Los Gatos, CA","2026-04-22","","","","","","",False,"","","","","","","https://www.linkedin.com/company/netflix","","","","","","","","","","","",""
+"li-4405274630","linkedin","https://www.linkedin.com/jobs/view/4405274630","","Software Engineer, Data Engineering","Verse","San Francisco, CA","2026-04-22","","","","","","",False,"","","","","","","https://www.linkedin.com/company/versedotinc","","","","","","","","","","","",""
+"li-4405221925","linkedin","https://www.linkedin.com/jobs/view/4405221925","","Full Stack Software Engineer","Gumloop","San Francisco, CA","2026-04-22","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/gumloop","","","","","","","","","","","",""
+"li-4404243540","linkedin","https://www.linkedin.com/jobs/view/4404243540","","Software Engineer - Distributed Systems","Artie","San Francisco, CA","2026-04-22","","","","","","",False,"","","","","","","https://www.linkedin.com/company/artie-technologies","","","","","","","","","","","",""
+"li-4404285254","linkedin","https://www.linkedin.com/jobs/view/4404285254","","Software Engineer Intern","Lunon","San Francisco, CA","2026-04-22","","","","","","",False,"","","","","","","https://www.linkedin.com/company/lunonai","","","","","","","","","","","",""
+"li-4392059004","linkedin","https://www.linkedin.com/jobs/view/4392059004","","Software Engineer, Android","Tinder","San Francisco, CA","2026-04-22","","","","","","",False,"","","","","","","https://www.linkedin.com/company/tinder-incorporated","","","","","","","","","","","",""
+"li-4373925074","linkedin","https://www.linkedin.com/jobs/view/4373925074","","Software Engineer","Handshake","San Francisco, CA","2026-04-21","","","","","","",False,"","","","","","","https://www.linkedin.com/company/team-handshake","","","","","","","","","","","",""
+"li-4404820228","linkedin","https://www.linkedin.com/jobs/view/4404820228","","Software Engineer, Product Experience","Verse","San Francisco, CA","2026-04-21","","","","","","",False,"","","","","","","https://www.linkedin.com/company/versedotinc","","","","","","","","","","","",""
+"li-4404904428","linkedin","https://www.linkedin.com/jobs/view/4404904428","","Software Engineer - Backend","CodeRabbit","San Francisco, CA","2026-04-21","","","","","","",False,"","","","","","","https://www.linkedin.com/company/coderabbitai","","","","","","","","","","","",""
+"li-4384327734","linkedin","https://www.linkedin.com/jobs/view/4384327734","","Software Engineer","Roku","San Jose, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/roku","","","","","","","","","","","",""
+"li-4405630619","linkedin","https://www.linkedin.com/jobs/view/4405630619","","Software Engineer","Loop AI","San Francisco, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/loopaicom","","","","","","","","","","","",""
+"li-4195259082","linkedin","https://www.linkedin.com/jobs/view/4195259082","","Software Engineer, Fullstack","Glean","","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/gleanwork","","","","","","","","","","","",""
+"li-4405607377","linkedin","https://www.linkedin.com/jobs/view/4405607377","","Software Engineer, Machine Learning (SWE II & SWE I)","Slack","San Francisco, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/tiny-spec-inc","","","","","","","","","","","",""
+"li-4405415592","linkedin","https://www.linkedin.com/jobs/view/4405415592","","Software Engineer, Models","Meter","San Francisco, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/meter-com","","","","","","","","","","","",""
+"li-4405664260","linkedin","https://www.linkedin.com/jobs/view/4405664260","","Full Stack Engineer","Microsoft","Mountain View, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/microsoft","","","","","","","","","","","",""
+"li-4405637580","linkedin","https://www.linkedin.com/jobs/view/4405637580","","Software Engineer II - Presto","Uber","San Francisco, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/uber-com","","","","","","","","","","","",""
+"li-4402842806","linkedin","https://www.linkedin.com/jobs/view/4402842806","","Software Engineer II","Sony Interactive Entertainment","San Mateo, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/sony-interactive-entertainment-llc","","","","","","","","","","","",""
