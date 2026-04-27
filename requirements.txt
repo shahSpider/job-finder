@@ -38,6 +38,7 @@ python-jobspy==1.1.82
 python-jose==3.5.0
 python-multipart==0.0.22
 pytz==2026.1.post1
+redis==7.4.0
 regex==2024.11.6
 requests==2.33.1
 rsa==4.9.1

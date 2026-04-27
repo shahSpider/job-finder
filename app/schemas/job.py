@@ -21,7 +21,7 @@ class JobUpdate(BaseModel):
     url: Optional[str] = None
 
 class JobResponse(BaseModel):
-    id: int
+    id: uuid.UUID
     title: str
     description: str
     company: str
