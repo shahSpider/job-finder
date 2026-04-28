@@ -6,6 +6,7 @@ import uuid
 from app.core.redis import redis_client
 import json
 from fastapi.encoders import jsonable_encoder
+from app.core.logger import logger
 
 async def create_job_service(db: AsyncSession, job_data: JobCreate):
     job = Job(
@@ -23,35 +24,39 @@ async def create_job_service(db: AsyncSession, job_data: JobCreate):
 
 
 async def get_jobs_service(page: int, page_size: int, offset: int, db: AsyncSession):
-    cache_key = f"jobs:{page}:{page_size}"
-
-    # Check cache
-    cached = await redis_client.get(cache_key)
-    print(f"Cache key: {cache_key}, Cached data: {cached}")
-    if cached:
-        return json.loads(cached)
     
-    # If not cached → query DB
-    result = await db.execute(select(Job).offset(offset).limit(page_size))
+    try:
+        logger.info(f"Fetching jobs page={page}, size={page_size}")
+        cache_key = f"jobs:{page}:{page_size}"
+        # Check cache
+        cached = await redis_client.get(cache_key)
+        if cached:
+            return json.loads(cached)
+        
+        # If not cached → query DB
+        result = await db.execute(select(Job).offset(offset).limit(page_size))
 
-    jobs = result.scalars().all()
+        jobs = result.scalars().all()
 
-    jobs_data = [
-        JobResponse.model_validate(job).model_dump()
-        for job in jobs
-    ]
-    response = {
-        "items": jobs_data,
-        "total": len(jobs_data),
-        "page": page,
-        "page_size": page_size
-    }
+        jobs_data = [
+            JobResponse.model_validate(job).model_dump()
+            for job in jobs
+        ]
+        response = {
+            "items": jobs_data,
+            "total": len(jobs_data),
+            "page": page,
+            "page_size": page_size
+        }
 
-    json_ready = jsonable_encoder(response)
-    # Store in Redis (TTL = 60 seconds)
-    await redis_client.set(cache_key, json.dumps(json_ready), ex=60)
+        json_ready = jsonable_encoder(response)
+        # Store in Redis (TTL = 60 seconds)
+        await redis_client.set(cache_key, json.dumps(json_ready), exx=60)
 
-    return response
+        return response
+    except Exception as e:
+        logger.error(f"Error fetching jobs: {e}")
+        return {"error": "Failed to fetch jobs"}
 
 async def get_job_by_id_service(db: AsyncSession, job_id: str):
     result = await db.execute(select(Job).where(Job.id == job_id))
